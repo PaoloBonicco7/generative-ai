@@ -19,6 +19,7 @@ This repository is dedicated to exploring and experimenting with cutting-edge te
 ## Getting Started
 
 The repository includes detailed documentation, code examples, and pre-trained models to help you quickly set up your local environment and begin exploring LLMs, RAG, and fine-tuning techniques.
+To test the code, it is recommended to create a virtual environment and install the dependencies listed in the requirements.txt file. Each folder in the repository has its own dedicated virtual environment and requirements.txt file for easy setup
 
 ## Contributions
 
